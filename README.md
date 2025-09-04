@@ -1,4 +1,4 @@
-An analysis of reward function of a hexapod robot
+# An analysis of reward function of a hexapod robot
 Research on reinforcement learning and robotics
 Analyzed the reward function of hexapod robot model to obtain the efficient and stable locomotion
 Optimal balance of reward parameters.
